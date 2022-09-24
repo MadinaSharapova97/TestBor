@@ -1,0 +1,61 @@
+.icon{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-color: #000;
+    cursor: pointer;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-position: center;
+    -webkit-mask-position: center;
+}
+.icon-tests{
+    mask-image: url('../icons/tests.svg');
+    -webkit-mask-image: url('../icons/tests.svg');
+}
+.icon-achievments{
+    mask-image: url('../icons/achievments.svg');
+    -webkit-mask-image: url('../icons/achievments.svg');
+}
+.icon-payment{
+    mask-image: url('../icons/payment.svg');
+    -webkit-mask-image: url('../icons/payment.svg');
+}
+.icon-settings{
+    mask-image: url('../icons/settings.svg');
+    -webkit-mask-image: url('../icons/settings.svg');
+}
+.icon-logout{
+    mask-image: url('../icons/quit.svg');
+    -webkit-mask-image: url('../icons/quit.svg');
+}
+.icon-arrow-up{
+    mask-image: url('../icons/arrow.svg');
+    -webkit-mask-image: url('../icons/arrow.svg');
+}
+.icon-eye-open{
+    mask-image: url('../icons/eye-open.svg');
+    -webkit-mask-image: url('../icons/eye-open.svg');
+}
+.icon-eye-close{
+    mask-image: url('../icons/eye-close.svg');
+    -webkit-mask-image: url('../icons/eye-close.svg');
+}
+.icon-arrow-base-left{
+    mask-image: url('../icons/arrow-base-left.svg');
+    -webkit-mask-image: url('../icons/arrow-base-left.svg');
+}
+.icon-google{
+    mask-image: url('../icons/google.svg');
+    -webkit-mask-image: url('../icons/google.svg');
+}
+.icon-facebook{
+    mask-image: url('../icons/facebook.svg');
+    -webkit-mask-image: url('../icons/facebook.svg');
+}
+.icon-apple{
+    mask-image: url('../icons/apple.svg');
+    -webkit-mask-image: url('../icons/apple.svg');
+}
